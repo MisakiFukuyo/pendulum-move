@@ -1,0 +1,24 @@
+{
+  "name": "pendulum-move",
+  "version": "1.0.0",
+  "description": "Pendulum move",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakafumiFukuyo/pendulum-move.git"
+  },
+  "keywords": [
+    "pendulum",
+    "position",
+    "angle"
+  ],
+  "author": "Takafumi Fukuyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TakafumiFukuyo/pendulum-move/issues"
+  },
+  "homepage": "https://github.com/TakafumiFukuyo/pendulum-move#readme"
+}
